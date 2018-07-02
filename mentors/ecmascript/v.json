@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "github_username": "vspedr",
+    "name": "Victor Pedrazzi",
+    "link_text": null,
+    "link_url": null,
+    "avatar_url": null,
+    "bio": "I work mostly as a front-end developer with react and react native, but recently I've been writing backend apps with Elixir and nodejs and also doing some ops stuff with ansible and docker."
+  }
+]
